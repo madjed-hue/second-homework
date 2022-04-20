@@ -7,6 +7,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: "Circular Std Medium";
 }
 .wrapper {
   width: 100%;
@@ -29,7 +30,6 @@
   min-width: 375px;
   min-height: 680px;
   overflow-x: hidden;
-  font-family: "Circular Std Medium";
   background-color: #f2f2f2;
   margin: 30px auto;
   box-shadow: 0px 15px 45px rgba(37, 35, 37, 0.1);
