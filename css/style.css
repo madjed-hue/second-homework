@@ -161,17 +161,16 @@ button {
   left: 10px;
 }
 .second-card .second-card-banner h4 {
-  font-style: italic;
   font-weight: 100;
   font-size: 12px;
-  line-height: 16px;
+  line-height: 1.8;
   color: #00d664;
 }
 .second-card .second-card-banner h3 {
   font-style: normal;
   font-weight: 700;
   font-size: 20px;
-  line-height: 24px;
+  line-height: 1.2;
   color: #252325;
 }
 .second-card .second-card-banner .right .map {
